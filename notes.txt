@@ -1,0 +1,5 @@
+Save the original clipboard before 'coping'
+It's the best to 'copy' what is that wanted to be translated
+Then do the change on the copied data
+Return the copied data to where it's selected
+Return the original clipboard data to be the first one
